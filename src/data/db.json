@@ -1,0 +1,339 @@
+{
+  "books": [
+    {
+      "name": "Wings of Fire: An Autobiography of Abdul Kalam",
+      "author": "Arun Tiwari and A. P. J. Abdul Kalam",
+      "pages": "560",
+      "category": "Biography",
+      "price": "371",
+      "id": 1
+    },
+    {
+      "name": "Man's Search for Meaning",
+      "author": "Viktor E Frankl",
+      "pages": "600",
+      "category": "Biography",
+      "price": "150",
+      "id": 2
+    },
+    {
+      "name": "Mahatma Gandhi Autobiography: The Story Of My Experiments With Truth",
+      "author": "Mahatma Gandhi",
+      "pages": "500",
+      "category": "Biography",
+      "price": "100",
+      "id": 3
+    },
+    {
+      "name": "Elon Musk: How the Billionaire CEO of Spacex and Tesla is Shaping Our Future",
+      "author": "Ashlee Vance",
+      "pages": "500",
+      "category": "Biography",
+      "price": "400",
+      "id": 4
+    },
+    {
+      "name": "Data Communication And Networking ",
+      "author": "Behrouz A. Forouzan",
+      "price": "490",
+      "category": "Technical",
+      "pages": "700",
+      "id": 5
+    },
+    {
+      "name": "Computer Fundamentals",
+      "author": "P. K. Sinha",
+      "price": "274",
+      "category": "Technical",
+      "pages": "450",
+      "id": 6
+    },
+    {
+      "name": "Oxford School Atlas: India's Most Trusted Atlas",
+      "author": "Oxford University Press",
+      "price": "231",
+      "category": "Academic",
+      "pages": "500",
+      "id": 7
+    },
+    {
+      "name": " Advanced English Grammar with Answers",
+      "author": "Hewings",
+      "price": "158",
+      "category": "Academic",
+      "pages": "350",
+      "id": 8
+    }
+  ],
+  "customers": [
+    {
+      "name": "vigeyy",
+      "address": "patel",
+      "cart": [
+        {
+          "name": "Mahatma Gandhi Autobiography: The Story Of My Experiments With Truth",
+          "author": "Mahatma Gandhi",
+          "pages": "500",
+          "category": "Biography",
+          "price": "100",
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "vgjc",
+      "address": "gkg46",
+      "phone": "5453637377",
+      "cart": [
+        {
+          "name": "Elon Musk: How the Billionaire CEO of Spacex and Tesla is Shaping Our Future",
+          "author": "Ashlee Vance",
+          "pages": "500",
+          "category": "Biography",
+          "price": "400",
+          "id": 4
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "4f4g4",
+      "address": "4g54g",
+      "cart": [
+        {
+          "name": "Man's Search for Meaning",
+          "author": "Viktor E Frankl",
+          "pages": "600",
+          "category": "Biography",
+          "price": "150",
+          "id": 2
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "vv",
+      "address": "qq",
+      "phone": "qq",
+      "cart": [
+        {
+          "name": "Elon Musk: How the Billionaire CEO of Spacex and Tesla is Shaping Our Future",
+          "author": "Ashlee Vance",
+          "pages": "500",
+          "category": "Biography",
+          "price": "400",
+          "id": 4
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "b",
+      "cart": [
+        {
+          "name": "Elon Musk: How the Billionaire CEO of Spacex and Tesla is Shaping Our Future",
+          "author": "Ashlee Vance",
+          "pages": "500",
+          "category": "Biography",
+          "price": "400",
+          "id": 4
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "vjefhw",
+      "address": "hwekfjhwe",
+      "phone": "234435",
+      "cart": [
+        {
+          "name": "Mahatma Gandhi Autobiography: The Story Of My Experiments With Truth",
+          "author": "Mahatma Gandhi",
+          "pages": "500",
+          "category": "Biography",
+          "price": "100",
+          "id": 3
+        },
+        {
+          "name": "Elon Musk: How the Billionaire CEO of Spacex and Tesla is Shaping Our Future",
+          "author": "Ashlee Vance",
+          "pages": "500",
+          "category": "Biography",
+          "price": "400",
+          "id": 4
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "vigyey",
+      "address": "noida ",
+      "phone": "9752324314",
+      "cart": [
+        {
+          "name": "Man's Search for Meaning",
+          "author": "Viktor E Frankl",
+          "pages": "600",
+          "category": "Biography",
+          "price": "150",
+          "id": 2
+        },
+        {
+          "name": "Mahatma Gandhi Autobiography: The Story Of My Experiments With Truth",
+          "author": "Mahatma Gandhi",
+          "pages": "500",
+          "category": "Biography",
+          "price": "100",
+          "id": 3
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "saurabh ",
+      "address": "noida",
+      "phone": "8344125423",
+      "cart": [
+        {
+          "name": "Elon Musk: How the Billionaire CEO of Spacex and Tesla is Shaping Our Future",
+          "author": "Ashlee Vance",
+          "pages": "500",
+          "category": "Biography",
+          "price": "400",
+          "id": 4
+        },
+        {
+          "name": "Mahatma Gandhi Autobiography: The Story Of My Experiments With Truth",
+          "author": "Mahatma Gandhi",
+          "pages": "500",
+          "category": "Biography",
+          "price": "100",
+          "id": 3
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "vigyey ",
+      "address": "bang",
+      "phone": "123456",
+      "cart": [
+        {
+          "name": "Elon Musk: How the Billionaire CEO of Spacex and Tesla is Shaping Our Future",
+          "author": "Ashlee Vance",
+          "pages": "500",
+          "category": "Biography",
+          "price": "400",
+          "id": 4
+        },
+        {
+          "name": "Mahatma Gandhi Autobiography: The Story Of My Experiments With Truth",
+          "author": "Mahatma Gandhi",
+          "pages": "500",
+          "category": "Biography",
+          "price": "100",
+          "id": 3
+        }
+      ],
+      "id": 9
+    },
+    {
+      "name": "atul",
+      "address": "noida",
+      "phone": "123342354",
+      "cart": [
+        {
+          "name": "Mahatma Gandhi Autobiography: The Story Of My Experiments With Truth",
+          "author": "Mahatma Gandhi",
+          "pages": "500",
+          "category": "Biography",
+          "price": "100",
+          "id": 3
+        },
+        {
+          "name": "Man's Search for Meaning",
+          "author": "Viktor E Frankl",
+          "pages": "600",
+          "category": "Biography",
+          "price": "150",
+          "id": 2
+        }
+      ],
+      "id": 10
+    },
+    {
+      "name": "abcd",
+      "address": "noida",
+      "phone": "1234432112",
+      "cart": [
+        {
+          "name": "Elon Musk: How the Billionaire CEO of Spacex and Tesla is Shaping Our Future",
+          "author": "Ashlee Vance",
+          "pages": "500",
+          "category": "Biography",
+          "price": "400",
+          "id": 4
+        },
+        {
+          "name": "Mahatma Gandhi Autobiography: The Story Of My Experiments With Truth",
+          "author": "Mahatma Gandhi",
+          "pages": "500",
+          "category": "Biography",
+          "price": "100",
+          "id": 3
+        }
+      ],
+      "id": 11
+    },
+    {
+      "name": "sanjay patel",
+      "address": "delhi",
+      "phone": "43212342",
+      "cart": [
+        {
+          "name": "Mahatma Gandhi Autobiography: The Story Of My Experiments With Truth",
+          "author": "Mahatma Gandhi",
+          "pages": "500",
+          "category": "Biography",
+          "price": "100",
+          "id": 3
+        },
+        {
+          "name": "Man's Search for Meaning",
+          "author": "Viktor E Frankl",
+          "pages": "600",
+          "category": "Biography",
+          "price": "150",
+          "id": 2
+        }
+      ],
+      "id": 12
+    },
+    {
+      "cart": [],
+      "id": 13
+    },
+    {
+      "cart": [
+        {
+          "name": "Computer Fundamentals",
+          "author": "P. K. Sinha",
+          "price": "274",
+          "category": "Technical",
+          "pages": "450",
+          "id": 6
+        },
+        {
+          "name": "Data Communication And Networking ",
+          "author": "Behrouz A. Forouzan",
+          "price": "490",
+          "category": "Technical",
+          "pages": "700",
+          "id": 5
+        }
+      ],
+      "id": 14
+    }
+  ]
+}

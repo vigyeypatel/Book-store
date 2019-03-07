@@ -1,0 +1,11 @@
+
+figure{
+
+    display: block;
+    text-align: center;
+}
+figure img{
+    width: 80%;
+    min-width: 500px;
+    object-fit: cover;
+}
